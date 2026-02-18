@@ -2,7 +2,7 @@
 
 ---
 
-# Presenter: Deepika Kumari
+# Presenter: Raj Kori
 
 ## Project: Schedula – Salon Booking Application
 
@@ -33,7 +33,7 @@ Even as an intern, I understand that unclear instructions cost time, energy, and
 
 ### Stakeholder Message:
 
-“Please fix this immediately and keep me posted.”
+Please fix this immediately and keep me posted.
 
 ### Reported Problem:
 
@@ -43,7 +43,7 @@ Customers are able to schedule appointments beyond the salon’s closing hours.
 
 ## Example of an Unclear PM Response
 
-“Please check and resolve this quickly.”
+Please check and resolve this quickly.
 
 ### Why This Is a Problem:
 
