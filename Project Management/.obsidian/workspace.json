@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "ce16ede1b8dc2b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day 8_ Assignemnt_PM-Internship_RajKori"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "37165dec5f653528",
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for day 8_ Assignemnt_PM-Internship_RajKori"
             }
           },
           {
@@ -129,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from day 8_ Assignemnt_PM-Internship_RajKori"
             }
           },
           {
@@ -172,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of day 8_ Assignemnt_PM-Internship_RajKori"
             }
           },
           {
@@ -210,8 +225,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcb8b9350dac5dcd",
+  "active": "ce16ede1b8dc2b06",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "day 8_ Assignemnt_PM-Internship_RajKori.md"
   ]
 }
