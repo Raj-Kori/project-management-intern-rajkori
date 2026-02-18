@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for day 8_ Assignemnt_PM-Internship_RajKori"
+              "title": "Backlinks"
             }
           },
           {
@@ -144,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from day 8_ Assignemnt_PM-Internship_RajKori"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day 8_ Assignemnt_PM-Internship_RajKori.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of day 8_ Assignemnt_PM-Internship_RajKori"
+              "title": "Outline"
             }
           },
           {
@@ -225,9 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce16ede1b8dc2b06",
+  "active": "f13ad6e0d3f23002",
   "lastOpenFiles": [
-    "Welcome.md",
-    "day 8_ Assignemnt_PM-Internship_RajKori.md"
+    "day 8_ Assignemnt_PM-Internship_RajKori.md",
+    "Welcome.md"
   ]
 }
