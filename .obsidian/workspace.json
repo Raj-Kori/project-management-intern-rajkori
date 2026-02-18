@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-Assignments/Week-2/DAY-08 Communication, Stakeholders and Decisions.md.md",
+                "file": "Week-Assignments/Week-1/Week-1-Assignment-AI-Engineering-Principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAY-08 Communication, Stakeholders and Decisions.md"
+              "title": "Week-1-Assignment-AI-Engineering-Principles"
+            }
+          },
+          {
+            "id": "757207372afd32a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOOLS-AND-DOCUMENTATION-GUIDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOOLS-AND-DOCUMENTATION-GUIDE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-Assignments/Week-2/DAY-08 Communication, Stakeholders and Decisions.md.md",
+                "file": "TOOLS-AND-DOCUMENTATION-GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DAY-08 Communication, Stakeholders and Decisions.md"
+              "title": "Backlinks for TOOLS-AND-DOCUMENTATION-GUIDE"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-Assignments/Week-2/DAY-08 Communication, Stakeholders and Decisions.md.md",
+                "file": "TOOLS-AND-DOCUMENTATION-GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DAY-08 Communication, Stakeholders and Decisions.md"
+              "title": "Outgoing links from TOOLS-AND-DOCUMENTATION-GUIDE"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-Assignments/Week-2/DAY-08 Communication, Stakeholders and Decisions.md.md",
+                "file": "TOOLS-AND-DOCUMENTATION-GUIDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAY-08 Communication, Stakeholders and Decisions.md"
+              "title": "Outline of TOOLS-AND-DOCUMENTATION-GUIDE"
             }
           },
           {
@@ -195,8 +210,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "c3afaac57909801e",
+  "active": "757207372afd32a6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "TOOLS-AND-DOCUMENTATION-GUIDE.md",
     "Week-Assignments/Week-1/Week-1-Assignment-AI-Engineering-Principles.md",
     "Week-Assignments/Week-2/DAY-08 Communication, Stakeholders and Decisions.md.md",
     "Week-Assignments/Week-2"
