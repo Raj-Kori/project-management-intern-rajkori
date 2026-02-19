@@ -1,3 +1,4 @@
+Here’s a polished version of your **Schedula Crisis Management Report** with a bit more _human touch_—making it empathetic, professional, and client/team-friendly while keeping the structure intact.
 
 ---
 
