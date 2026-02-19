@@ -1,121 +1,108 @@
-Here’s a polished version of your **Schedula Crisis Management Report** with a bit more _human touch_—making it empathetic, professional, and client/team-friendly while keeping the structure intact.
 
 ---
 
-# 🚨 Crisis Management Report – Schedula (Salon Booking App)
+# 📘 Assignment – Day 10
 
-**Date:** February 18, 2026
-
----
-
-## CRISIS 1: Scope Creep Emergency
-
-### Problem Statement
-
-Six days before launch, the client requested four major new features while the sprint is already at full capacity. This risks delaying launch and reducing product stability.
-
-### Root Cause (3 Whys)
-
-- **Why 1:** Client compared Schedula with competitor apps and requested parity features.
-- **Why 2:** Feature expectations were not clearly aligned or prioritized before the final sprint.
-- **Why 3:** Launch scope was not formally documented, signed off, and locked with a change control process.
-
-**Root Cause:** Lack of formal scope freeze and change control before final sprint.
-
-### Response Options
-
-|Option|Outcome|Trade-offs|
-|---|---|---|
-|**A – Add All Features Before Launch**|Client happy short-term|Launch delayed 2–3 weeks, high dev pressure, bug risk|
-|**B – Prioritize WhatsApp Booking Only**|Balanced satisfaction|On-time launch, one high-value feature added, others moved to Phase 2|
-|**C – Launch As Planned, Move All to Phase 2**|Stable release|On-time launch, temporary client disappointment, requires clear roadmap|
-
-### Recommendation
-
-**Option B – Prioritize WhatsApp Booking.**  
-This delivers the highest business value while keeping launch on track. Remaining features will be scheduled for Phase 2.
-
-👉 _Human touch:_ Communicate empathetically with the client:  
-_"We understand your excitement about new features. To ensure a smooth launch, we’ll prioritize WhatsApp booking now and roll out the other enhancements in Phase 2. This way, you get a stable product on time and a clear roadmap for growth."_
+**Name:** Raj Kori
+**Date:** 18 Feb 2026
 
 ---
 
-## CRISIS 2: Team Conflict Scenario
+## Crisis 1: Scope Creep Emergency
 
-### Root Cause (3 Whys)
+**Problem Statement:**  
+Six days before launch, the client requested four major new features (WhatsApp booking, Google Calendar sync, Birthday coupons, Instagram integration). The sprint is already at full capacity, creating risk of delay and instability.
 
-- **Why 1:** Developer redoing work due to late design changes.
-- **Why 2:** Design changes occurred after development started.
-- **Why 3:** No design freeze or approval checkpoint before sprint execution.
+**Root Cause (3 Whys):**
 
-**Root Cause:** Lack of structured design-to-development handoff process.
+1. Competitors offered these features.
+2. Customers demanded WhatsApp booking.
+3. Scope was not formally frozen or prioritized.
 
-### Immediate Fix (Today’s Action)
+**Options:**
 
-- **Rajesh (Developer):** _“Designs will be frozen by EOD today. You’ll only implement approved versions. No rework without PM approval.”_
-- **Priya (Designer):** _“All UX improvements must be finalized before sprint start. For this sprint, we’ll lock designs after today.”_
-- **Amit (QA):** _“You’ll test the latest approved version. Final UI freeze confirmed by 4 PM.”_
+- **Option A – Add All Features:** Launch delayed 2–3 weeks, high bug risk, client happy short-term.
+- **Option B – Add WhatsApp Only:** On-time launch, partial satisfaction, controlled workload.
+- **Option C – Defer All Features:** Stable launch, client disappointment, requires clear roadmap.
 
-### Process Change for Next Sprint
+**Recommendation:**  
+Choose **Option B**: Deliver WhatsApp booking now, commit others to Phase 2 roadmap.  
+This balances timeline, stability, and client trust.
+
+**Prevention Strategy:**
+
+- Formal scope freeze before final sprint.
+- Signed-off roadmap.
+- Change request documentation.
+- Regular client alignment meetings.
+
+---
+
+## Crisis 2: Team Conflict
+
+**Root Cause (3 Whys):**
+
+1. Developer redoing work due to late design changes.
+2. Designer updated UI after development began.
+3. No design freeze or approval checkpoint.
+
+**Immediate Fix (Today):**
+
+- **Rajesh (Developer):** Implement only approved designs, freeze version by EOD.
+- **Priya (Designer):** Finalize UX improvements before sprint start, lock design today.
+- **Amit (QA):** Test frozen design, UI freeze confirmed by 4 PM.
+
+**Process Change (Next Sprint):**
 
 - Introduce **Design Freeze Rule** before sprint start.
 - Mandatory design approval meeting.
-- No UI changes mid-sprint without formal change request.
+- No mid-sprint changes without formal request.
 - Clear version tagging for QA.
 
-👉 _Human touch:_ Frame this as teamwork, not blame:  
-_"We’re locking designs today to protect everyone’s effort. Going forward, we’ll set clear checkpoints so no one has to redo work unnecessarily."_
-
 ---
 
-## CRISIS 3: Data Quality Issue
+## Crisis 3: Data Quality
 
-### Root Cause (5 Whys)
+**Root Cause (5 Whys):**
 
-- **Why 1:** Invalid time slots accepted.
-- **Why 2:** Validation logic incomplete.
-- **Why 3:** Partial implementation to meet sprint deadline.
-- **Why 4:** Time slot rules not fully defined during planning.
-- **Why 5:** Business validation scenarios not documented in acceptance criteria.
+1. Invalid slots accepted.
+2. Validation logic incomplete.
+3. Partial implementation to meet deadline.
+4. Rules not fully defined.
+5. Acceptance criteria missing.
 
-**Root Cause:** Incomplete validation requirements and rushed implementation.
-
-### Demo Strategy
+**Demo Strategy:**
 
 - Use valid test data only.
-- Avoid edge-case scenarios.
-- Communicate clearly: _“Advanced validation enhancements are being finalized for launch.”_
+- Avoid edge cases.
+- Communicate: _“Advanced validation enhancements are being finalized.”_
 
-### Client Communication (2–3 Sentences)
+**Client Communication:**  
+“We identified edge-case validation improvements during QA. Core booking flow is functional, and rules will be strengthened within 3 days to ensure stable release.”
 
-_"During final QA, we identified edge-case improvements in time-slot validation. The booking flow is fully functional, and we’re strengthening rules over the next three days to ensure a stable release."_
+**3-Day Action Plan:**
 
-### 3-Day Action Plan
-
-- **Day 1:** Implement full validation logic (business hours, min duration, overlap prevention, holiday blocks).
-- **Day 2:** QA regression + edge-case testing, fix defects immediately.
+- **Day 1:** Implement full validation (business hours, min duration, overlap prevention, holiday blocks).
+- **Day 2:** QA regression + edge-case testing, fix defects.
 - **Day 3:** Final stability testing, client UAT, emergency buffer.
 
----
+**Prevention Strategy:**
 
-## Prevention Strategy
-
-- **Scope Creep:** Formal scope freeze, signed roadmap, change request documentation.
-- **Team Conflict:** Design freeze, approval checkpoints, version control discipline.
-- **Data Quality:** Detailed acceptance criteria, validation checklist, QA involvement during requirements.
+- Detailed acceptance criteria.
+- Validation checklist before coding.
+- QA involvement during requirements.
 
 ---
 
 ## Key PM Takeaways
 
 - Scope creep is normal — unmanaged scope creep is dangerous.
-- Team conflict usually signals process failure, not personality issues.
-- Transparency with clients builds long-term trust.
+- Team conflict signals process gaps, not personal issues.
+- Transparency with clients builds trust.
 - Root cause analysis prevents repeat mistakes.
-
-👉 _Human touch closing note:_  
-_"Projects rarely go exactly as planned. What matters is how we respond—with clarity, empathy, and discipline. By balancing stability with client needs, we protect both the product and the team."_
 
 ---
 
-Would you like me to also **draft a client-facing email** summarizing these crises and resolutions in a concise, reassuring way? That could help you communicate the plan smoothly.
+✨ This version is concise, professional, and blends the **clarity of your draft** with the **empathy and structure of the uploaded assignment**.
+
+Would you like me to also **add a polished executive summary at the top** (like a one-paragraph overview) so your professor/client can quickly grasp the whole assignment before diving into details?
