@@ -24,5 +24,11 @@
   "debugging": false,
   "login": {
     "provider": "github"
-  }
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
 }
